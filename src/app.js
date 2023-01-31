@@ -1,3 +1,13 @@
+/*
+* File: app.js
+* Author: Kurucz János
+* Copyright: 2023, Kurucz János
+* Group: Szoft 1/I/E
+* Date: 2023-01-31
+* Github: https://github.com/kuruczjanos/
+* Licenc: GNU GPL
+*/
+
 const radiusElem = document.querySelector('#radius');
 const heightElem = document.querySelector('#height');
 const calcButton = document.querySelector('#calcButton');
